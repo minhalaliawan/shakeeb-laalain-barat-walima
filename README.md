@@ -1,4 +1,4 @@
-# Barat &amp; Walima — Ahmed Shakeeb &amp; Dr. Laalain Fatima
+# Barat &amp; Walima — Ahmad Shakeeb &amp; Dr. Laalain Fatima
 
 A standalone invitation covering the **Barat and Walima only**. Single static
 file, no build step, no dependencies, no backend. Open `index.html` in a browser
